@@ -172,6 +172,7 @@ const config = {
         },
       ],
     },
+    
     extend: {
       colors: {
         "primary-500": "#877EFF",
